@@ -1,0 +1,24 @@
+.vship-text-underline {
+  text-decoration: underline;
+}
+
+.vship-text-italic {
+  font-style: italic;
+}
+
+.vship-text-bold {
+  font-weight: bold;
+}
+
+.my-swiper-bullet {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  display: inline-block;
+  background-color: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.my-swiper-bullet-active {
+  background-color: #aa0a0a;
+}

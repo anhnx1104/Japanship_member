@@ -1,0 +1,4 @@
+const SIDEBAR_WIDTH = 290;
+const HEADER_HEIGHT = 64;
+
+export { SIDEBAR_WIDTH, HEADER_HEIGHT };
